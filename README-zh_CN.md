@@ -37,7 +37,7 @@ import 'package:flutter_popup_window/flutter_popup_window.dart';
 
 ## 如何使用
 
-For example code [main.dart](https://github.com/coolxinxin/flutter_popup_window/blob/main/example/lib/main.dart)
+示例代码 [main.dart](https://github.com/coolxinxin/flutter_popup_window/blob/main/example/lib/main.dart)
 
 显示popupWindow
 
